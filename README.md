@@ -10,10 +10,10 @@ Proje tamamlandı ve kaynak kodları eklendi.
 
 Proje tamamlandı ve kaynak kodları eklendi.
 
-## 3D Kutu Arkaplan
+## 3D Kutu Arkaplan ( 3. Gün )
 
 3D kutu arkaplana ait kodlar eklendi.
 
-## Proje Başlangıcı
+## Proje Başlangıcı ( 4. Gün )
 
 Proje başlangıcı sayfasına özgü sayfa tasarımı eklendi.
