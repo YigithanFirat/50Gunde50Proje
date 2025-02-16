@@ -13,3 +13,7 @@ Proje tamamlandı ve kaynak kodları eklendi.
 ## 3D Kutu Arkaplan
 
 3D kutu arkaplana ait kodlar eklendi.
+
+## Proje Başlangıcı
+
+Proje başlangıcı sayfasına özgü sayfa tasarımı eklendi.
